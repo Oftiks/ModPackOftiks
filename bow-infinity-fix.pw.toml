@@ -1,0 +1,18 @@
+filename = 'BowInfinityFix-1.20.x-fabric-2.6.0.jar'
+name = 'Bow Infinity Fix'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.6.0'
+
+[download]
+hash = '7fb2959cc679dff5c1b21d4a607f567da1fbff1f4220c692c1f1dd3e6722b3721ecc93edb13c9d03f46d38840c3967f3d8ff3f9e255152ae95c11b1206a49eb4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BFENfScW/versions/VllsAwTD/BowInfinityFix-1.20.x-fabric-2.6.0.jar'
+
+[update.modrinth]
+mod-id = 'BFENfScW'
+version = 'VllsAwTD'
