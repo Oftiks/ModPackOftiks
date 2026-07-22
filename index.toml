@@ -7242,6 +7242,10 @@ file = "mods/noxesium-1.0.3.jar"
 hash = "4b275bcf457dbefc7c51e43b3c905f83638c624dade4528244fce010cd47f425"
 
 [[files]]
+file = "mods/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "mods/polymer-bundled-0.5.20+1.20.1.jar"
 hash = "2e0a9781922beab01d8995eae8ed03c4829403345ea169a56a0d7c3a6887c622"
 
